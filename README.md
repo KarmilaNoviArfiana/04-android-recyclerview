@@ -5,7 +5,7 @@
 2. Membuat depedencies <br>
 ![Hasil Praktikum](Screenshoot/3.png) <br>
 Selanjutnya pada file xml di layout activity akan otomatis muncul code seperti dibawah <br>
-![Hasil Praktikum](Screenshoot/4.png) <br>
+![Hasil Praktikum](Screenshoot/4.PNG) <br>
 3. Lalu buat class java dengan nama Model <br>
 ![Hasil Praktikum](Screenshoot/5.png) <br>
 dan isi dengan code program seperti dibawah <br>
