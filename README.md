@@ -26,5 +26,5 @@ dan isikan kode program seperti dibawah <br>
 7. Lalu pada main activity isikan kode program seperti gambar dibawah <br>
 ![Hasil Praktikum](Screenshoot/14.PNG) <br>
 8. HASIL APLIKASI <br>
-![Hasil Praktikum](Screenshoot/15.jpg) <br>
-![Hasil Praktikum](Screenshoot/16.jpg)
+![Hasil Praktikum](Screenshoot/hasil1.jpg) <br>
+![Hasil Praktikum](Screenshoot/hasil2.jpg)
